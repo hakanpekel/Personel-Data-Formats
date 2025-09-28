@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personel>
+    <personelID>1001</personelID>
+    <ad>Ayşe</ad>
+    <soyad>Yılmaz</soyad>
+    <departman>Pazarlama</departman>
+    <pozisyon>Uzman</pozisyon>
+    <iseGirisTarihi>2022-08-15</iseGirisTarihi>
+    <maas>45000.50</maas>
+    <aktif>true</aktif>
+    <projeler>
+        <proje>Proje A</proje>
+        <proje>Proje B</proje>
+    </projeler>
+</personel>
