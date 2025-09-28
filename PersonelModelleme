@@ -1,0 +1,10 @@
+Alan Adı (Key)	Veri Tipi (Type)	Açıklama	Örnek Değer
+personelID	Tamsayı (Integer)	Benzersiz personel kimliği	1001
+ad	Metin (String)	Personelin adı	"Ayşe"
+soyad	Metin (String)	Personelin soyadı	"Yılmaz"
+departman	Metin (String)	Çalıştığı departman	"Pazarlama"
+pozisyon	Metin (String)	Görev pozisyonu	"Uzman"
+iseGirisTarihi	Tarih (Date/String)	İşe başlama tarihi	"2022-08-15"
+maas	Ondalık (Float/Decimal)	Aylık brüt maaş	45000.50
+aktif	Boolean (Boolean)	Çalışanın aktif olup olmadığı	true
+projeler	Dizi (Array/List)	Personelin dahil olduğu projeler	["Proje A", "Proje B"]
