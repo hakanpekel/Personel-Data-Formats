@@ -1,0 +1,14 @@
+{
+  "personelID": 1001,
+  "ad": "Ayşe",
+  "soyad": "Yılmaz",
+  "departman": "Pazarlama",
+  "pozisyon": "Uzman",
+  "iseGirisTarihi": "2022-08-15",
+  "maas": 45000.50,
+  "aktif": true,
+  "projeler": [
+    "Proje A",
+    "Proje B"
+  ]
+}
